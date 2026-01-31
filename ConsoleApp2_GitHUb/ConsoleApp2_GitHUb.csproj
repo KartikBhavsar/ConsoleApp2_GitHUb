@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Admin\Addition.cs" />
     <Compile Include="Admin\Login.cs" />
+    <Compile Include="Product\DashBoard.cs" />
     <Compile Include="Product\Login.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
